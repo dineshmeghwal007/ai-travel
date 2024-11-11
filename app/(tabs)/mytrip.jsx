@@ -24,7 +24,7 @@ export default function MyTrip() {
       <Text style={{
         fontSize:40,
         fontWeight:600
-      }}>My Trips</Text>
+      }}>My Trips yes</Text>
       <Ionicons name="add-circle" size={50} color="black" />
       
       </View>
