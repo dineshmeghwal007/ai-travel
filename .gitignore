@@ -1,0 +1,13 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+android/.gradle
+android/build
+android/app/build
+ios/Pods
+ios/DerivedData
+ios/.build
+ios/build
+.env
